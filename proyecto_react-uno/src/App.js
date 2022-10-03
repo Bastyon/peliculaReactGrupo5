@@ -8,8 +8,9 @@ function App() {
   return (
     <>
       <Bienvenida />
-      {peliculas.map(peli =>
+      {peliculas.map((peli,i) =>
         <Pelicula
+          key={i}
           title={peli.title}
           img={peli.img}
           genre={peli.genre}

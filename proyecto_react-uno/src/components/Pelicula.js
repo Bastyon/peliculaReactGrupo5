@@ -1,12 +1,12 @@
 function Pelicula(props) {
     return (
         <section>
-            <h2 class="titu-lo1">{props.title}</h2>
-            <hr class="linea-tit" />
-            <div class="sinopsis">
-                <img class="peliculas" src={props.img} alt="civil war" />
+            <h2 className="titu-lo1">{props.title}</h2>
+            <hr className="linea-tit" />
+            <div className="sinopsis">
+                <img className="peliculas" src={props.img} alt="civil war" />
                 <div>
-                    <nav class="articulo">
+                    <nav className="articulo">
                         <article>{props.genre}</article>
                         <article>{props.duration}</article>
                         <article>{props.date}</article>
@@ -27,7 +27,7 @@ function Pelicula(props) {
                     </ul>
                 </div>
             </div>
-            <hr class="linea-final" />
+            <hr className="linea-final" />
         </section>
     );
 }
