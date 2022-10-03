@@ -1,0 +1,123 @@
+// Variables 
+
+$color-navbar: #370617; // Color azul oscuro de la barra de navegación
+$color-header: #6A040F; // Color background header
+$color-about-us: #0A0908; // Color de fondo section about us
+$color-footer: #E07A5F; // Color de fondo footer
+$color-font: #B9DAC6; // Color de la fuente
+$color-border: #EAE0D5; // Color de bordes
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+// Barra de navegación //
+
+.navbar {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-right: 35px;
+    margin-left: -15px;
+    background-color: $color-navbar;
+    justify-content: space-between;
+    &__logo {
+        display: block;
+        max-width: 70px;
+        height: auto;
+        margin-left: 20px;
+    }
+}
+.navbar__navbar__ul {
+    display: flex;
+    list-style: none;
+    &-elements {
+        text-decoration: none;
+        display: block;
+        font-size: 1.3rem;
+        padding: 0.5rem;
+        color: $color-font;
+    }
+}
+
+// --- /Barra de navegación //
+
+// Bienvenida página // 
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 30%;
+    width: 100%;
+    height: 100vh;
+    font-size: 30px;
+    background-color: $color-header;
+    color: $color-font;
+    font-size: 50px;
+    margin-left: -10px;
+    padding: 0 10px 0 10px;
+}
+
+// ---- /Bienvenida página // 
+
+// About Us //
+
+.section__about-us {
+    background-color: $color-about-us;
+    margin-left: -10px;
+    padding: 0 10px 10px 10px;
+    color: $color-font;
+    width: 100%;
+}
+.about-us {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    &__div {
+        width: 50%;
+        &-img {
+            width: 500px;
+            height: 300px;
+            border: $color-border 2px solid;
+            border-radius: 3%;
+        }
+    }
+}
+#article-one {
+    flex-direction: row-reverse;
+}
+#article-three {
+    flex-direction: row-reverse;
+}
+
+// --- /About Us //
+
+// Footer //
+
+.footer-conteiner {
+    width: 100%;
+    background-color: $color-footer;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    padding: 0px 10px 0 10px;
+    align-items: center;
+}
+.social-media-icon {
+    max-width: 60px;
+    height: auto;
+}
+.footer-img {
+    max-width: 60px;
+    height: auto;
+}
+
+// --- /Footer //

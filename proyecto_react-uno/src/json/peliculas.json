@@ -1,0 +1,98 @@
+[
+
+    {
+        "title":"Capitán América: Civil War",
+        "img":"../img/civil war.webp",
+        "genre":"Acción, Aventura, Ciencia ficción",
+        "duration":"2h 27m",
+        "date":"Año: 2016",
+        "description":"'Capitán América: Guerra civil' de Marvel empieza donde lo dejó Vengadores: La Era de Ultrón ya que Steve Rogers lidera el nuevo equipo de los Vengadores en su incesante tarea de proteger a la humanidad. Después de que otro incidente internacional en el que se ven envueltos los Vengadores produzca daños colaterales, la presión política obliga a poner en marcha un sistema para depurar responsabilidades y un organismo rector que determine cuándo hay que recurrir a los servicios del equipo. El nuevo statu que divide a los Vengadores mientras intentan proteger al mundo de un nuevo malvado, el Baron Zemo.",
+        "actorOne":"Chris Evans",
+        "actorTwo":"Robert Downey Jr",
+        "actorThree":"Anthony Mackie",
+        "actorFour":"Sebastian Stan",
+        "actorFive":"Chadwick Boseman",
+        "actorSix":"Scarlett Johansson",
+        "actorSeven":"Paul Rudd",
+        "actorEight":"Jeremy Renner",
+        "actorNine":"Elizabeth Olsen",
+        "actorTen":"Don Cheadle"
+    }, 
+
+    {
+        "title":"Los Vengadores: Infinity War",
+        "img":"../img/infinity war.jpg",
+        "genre":"Acción, Aventura, Ciencia ficción",
+        "duration":"2h 36m",
+        "date":"Año: 2018",
+        "description":"El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de poner fin a esto son los Vengadores y el resto de superhéroes, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Ironman y el Capitán América deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+        "actorOne":"Josh Brolin",
+        "actorTwo":"Chris Evans",
+        "actorThree":"Robert Downey Jr",
+        "actorFour":"Chris Hemsworth",
+        "actorFive":"Benedict Cumberbatch",
+        "actorSix":"Scarlett Johansson",
+        "actorSeven":"Mark Ruffalo",
+        "actorEight":"Anthony Mackie",
+        "actorNine":"Sebastian Stan",
+        "actorTen":"Chadwick Boseman"
+    },
+
+    {
+        "title":"Los Vengadores: End Game",
+        "img":"../img/End game.jpg",
+        "genre":"Acción, Aventura, Ciencia ficción",
+        "duration":"3h 1m",
+        "date":"Año: 2019",
+        "description":"Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas.",
+        "actorOne":"Chris Evans",
+        "actorTwo":"Robert Downey Jr",
+        "actorThree":"Chris Hemsworth",
+        "actorFour":"Josh Brolin",
+        "actorFive":"Scarlett Johansson",
+        "actorSix":"Mark Ruffalo",
+        "actorSeven":"Jeremy Renner",
+        "actorEight":"Brie Lasrson",
+        "actorNine":"Paul Rudd",
+        "actorTen":"Anthony Mackie"
+    },
+
+    {
+        "title":"Spider-Man: No Way Home",
+        "img":"../img/no way home.jpg",
+        "genre":"Acción, Aventura, Ciencia ficción",
+        "duration":"2h 28m",
+        "date":"Año: 2021",
+        "description":"Por primera vez en la historia cinematográfica de Spider-Man la identidad de nuestro héroe de barrio de 17 años es revelada al mundo entero, poniendo en el ojo público su vida y la de sus seres queridos. Las amenazas y caos que persiguen a Spider-Man le cuestan a Peter, MJ y Ned (a los que la prensa apoda como sus cómplices) su entrada en la universidad. Incapaz de quedarse de brazos cruzados viendo cómo les arrebatan su sueño a sus amigos, Peter le pide a Doctor Strange que restaure su secreto. Doctor Strange, que lleva sobre los hombros el peso de la decisión que acabó con la vida del mentor de Peter (Tony Stark), es conmovido por su petición y acepta ayudarle.",
+        "actorOne":"Tom Holland",
+        "actorTwo":"Tobey Maguire",
+        "actorThree":"Andrew Garfield",
+        "actorFour":"Benedict Cumberbatch",
+        "actorFive":"Zendaya",
+        "actorSix":"Jacob Batalon",
+        "actorSeven":"Jon Favreau",
+        "actorEight":"Willem Dafoe",
+        "actorNine":"Jamie Foxx",
+        "actorTen":"Alfred Molina"
+    },
+
+    {
+        "title":"Black Panther",
+        "img":"../img/black phanter.jpg",
+        "genre":"Acción, Aventura",
+        "duration":"2h 15m",
+        "date":"Año: 2018",
+        "description":"Hace millones de años, un meteorito de poderoso vibranium impactó en África. Cuando llegó la era del hombre, la mayoría de los habitantes de aquel territorio se unieron bajo el mando de un guerrero chamán que, gracias al vibranium, adquirió fuerza, velocidad e instinto sobrehumano, convirtiéndose en el primer Black Panther.",
+        "actorOne":"Chadwick Boseman",
+        "actorTwo":"Michael B. Jordan",
+        "actorThree":"Lupita Nyong'o",
+        "actorFour":"Danai Gurira",
+        "actorFive":"Martin Freeman",
+        "actorSix":"Daniel Kaluuya",
+        "actorSeven":"Andy Serkis",
+        "actorEight":"Angela Bassett",
+        "actorNine":"Forest Whitaker",
+        "actorTen":"Letitia Wright"
+    }
+
+]

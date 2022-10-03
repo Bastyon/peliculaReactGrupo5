@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2? family= Bangers & display=swap');
+body {
+    background-color: black;
+}
+.ini-cio{
+    background-color: gold;
+}
+/* index */
+.marvel-logo{
+    margin-top: -70px;
+    width: 800px;
+    height: 500px;
+    margin: -70px 5px -50px 220px;
+}
+.enla-ce{
+    text-decoration: none;
+    color: red;
+    -webkit-text-stroke: 2px black;
+    background-color: gray;
+    border: 2px solid black;
+    font-size: 50px;
+    font-family: 'Bangers', cursive;
+    margin-left: 460px;
+}
+.enla-ce:hover{
+    background-color: red;
+    color: gray;
+}
+
+/* cartelera peliculas */
+.movie{
+    background-color: black;
+}
+
+.logo-2{
+    width: 300px;
+    height: 100px;
+}
+
+/* titulos */
+.titu-lo1{
+    font-size: 40px;
+    text-align: center;
+    -webkit-text-stroke: 1px red;
+    color: gray;
+    font-family:Arial, Helvetica, sans-serif
+}
+/* ------------------------ */
+
+.linea-tit{
+    margin-top: -33px;
+    border: 0;
+    height: 10px;
+    box-shadow: inset 0px 12px 12px -12px gray;
+}
+
+.peliculas{
+    margin-left: 50px;
+    width: 300px;
+    height: 450px;
+    margin-bottom: 5px;
+    vertical-align: text-top;
+    /* display: flex; */
+}
+.articulo{
+    display: flex;
+}
+
+article{
+    color:silver;
+    border: 1px solid silver;
+    margin: 5px;
+}
+
+.sinopsis{
+    display: flex;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 15px;
+    color: white;
+}
+
+ul{
+    color: rgb(63, 61, 61);
+    column-count: 5;
+    list-style: none;
+    margin-left: -25px;
+    margin-top: -15px;
+    
+    
+}
+
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: silver;
+    padding-left: 15px;
+}
+
+button{
+    margin-top: 70px;
+    color: black;
+    margin-left: 15px;
+    background: yellow;
+    border-color: white;
+}
+
+/* estrellas de puntuacion */
+#form {
+    width: 250px;
+    margin: 0 auto;
+    height: 50px;
+  }  
+  #form p {
+    text-align: center;
+  }  
+  #form label {
+    font-size: 20px;
+  }  
+  input[type="radio"] {
+    display: none;
+  }  
+  label {
+    color: grey;
+  }  
+  .clasificacion {
+    direction:rtl;
+    unicode-bidi:bidi-override;
+  }  
+  label:hover,
+  label:hover ~ label {
+    color: orange;
+  }  
+  input[type="radio"]:checked ~ label {
+    color: orange;
+  }
+  /* ------------------ */
+
+.linea-final{
+    border: 2px inset rgb(144, 37, 37);
+    height: 1px;
+}
+
+footer{
+    margin-top: 30px;
+    text-align: center;
+    color: rgba(108, 110, 112, 0.221);
+}
